@@ -11,8 +11,6 @@
   "dependencies": {
     "@babel/runtime": "^7.25.9",
     "@clerk/nextjs": "^6.0.0",
-    "@emotion/react": "^11.13.3",
-    "@emotion/styled": "^11.13.0",
     "@mui/icons-material": "^6.1.5",
     "@mui/material": "^6.1.5",
     "mongodb": "^6.10.0",
