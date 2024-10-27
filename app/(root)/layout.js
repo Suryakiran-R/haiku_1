@@ -21,10 +21,9 @@ import { ClerkProvider } from "@clerk/nextjs";
 import "../globals.css";
 import { Inter } from "next/font/google";
 
-import LeftSideBar from "@components/layout/LeftSideBar";
+import LeftSideBar from "@components/layout/leftSideBar";
 import MainContainer from "@components/layout/MainContainer";
 import RightSideBar from "@components/layout/RightSideBar";
-import TopBar from "@components/layout/TopBar";
 import BottomBar from "@components/layout/BottomBar";
 
 export const metadata = {
