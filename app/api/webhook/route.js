@@ -1,6 +1,6 @@
 import { Webhook } from "svix";
 import { headers } from "next/headers";
-// import { WebhookEvent } from "@clerk/next.js/server";
+import { WebhookEvent } from "@clerk/nextjs/server";
 
 export async function POST(req) {
   // You can find this in the Clerk Dashboard -> Webhooks -> choose the webhook
